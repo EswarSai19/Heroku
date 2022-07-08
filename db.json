@@ -1,14 +1,806 @@
-{
-  "posts": [
+
+{   
+   
+  "restaurants" : 
+  [
+      {
+          "name": "URU Brew Park",
+          "id": 1,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 600,
+          "minOrder": 50,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": false
+          },
+          "rating": 4.3,
+          "votes": 300,
+          "reviews": 445,
+          "src": "https://www.linguahouse.com/linguafiles/md5/d01dfa8621f83289155a3be0970fb0cb"
+      },
+      {
+          "name": "Kovai Alangar vilas",
+          "id": 2,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 600,
+          "minOrder": 50,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": false,
+          "cash": true
+          },
+          "rating": 4,
+          "votes": 300,
+          "reviews": 445,
+          "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Barbieri_-_ViaSophia25668.jpg"
+      },
+      {
+          "name": "The Marina",
+          "id": 3,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 600,
+          "minOrder": 50,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 3.8,
+          "votes": 300,
+          "reviews": 445,
+          "src": "https://usercontent.one/wp/marina.sobs.eu/wp-content/uploads/2020/08/marina_restaurant_northern_light_1_20150320_1404788737-980x642.jpg"
+      },
+      {
+          "name": "Southern Spice",
+          "id": 4,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 600,
+          "minOrder": 50,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": false,
+          "cash": true
+          },
+          "rating": 2,
+          "votes": 300,
+          "reviews": 445,
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpsgKWkqWUcckd8c7pz_ViYENX0rJLXGz_N5ux0yOEnDNa0R1l&usqp=CAU"
+      },
+      {
+          "name": "ITC Grand Chola",
+          "id": 5,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 5000,
+          "minOrder": 2000,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": false
+          },
+          "rating": 4.9,
+          "votes": 3000,
+          "reviews": 2445,
+          "src": "https://r1imghtlak.mmtcdn.com/14853ec0a99311e7a4e10a209fbd0127.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg"
+      },
+      {
+        "name": "The Raintree",
+        "id": 6,
+        "cuisine": [
+        "continental",
+        "Asian",
+        "Pizza",
+        "Deserts"
+        ],
+        "costForTwo": 3000,
+        "minOrder": 2000,
+        "deliveryTime": 30,
+        "payment_methods": {
+        "card": true,
+        "cash": true
+        },
+        "rating": 3,
+        "votes": 30650,
+        "reviews": 12445,
+        "src": "https://th.bing.com/th/id/OIP.lolU1dxpzGGU0HG9WikIwAHaEK?pid=ImgDet&rs=1"
+        },
+      {
+          "name": "Karaikudi Chettinadu",
+          "id": 7,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 1500,
+          "minOrder": 500,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 0.5,
+          "votes": 30650,
+          "reviews": 12445,
+          "src": "https://www.thehindu.com/life-and-style/food/jp5jb3/article27060927.ece/ALTERNATES/LANDSCAPE_1200/NV-Horizontal-Thali-Shot"
+          },
+          {
+          "name": "The Red Box",
+          "id": 8,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 500,
+          "minOrder": 200,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 3.8,
+          "votes": 506,
+          "reviews": 645,
+          "src": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/cz5eqfncnraapuvijryb"
+          },
+          {
+          "name": "Hotel Crescent",
+          "id": 9,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 1000,
+          "minOrder": 200,
+          "deliveryTime": 2,
+          "payment_methods": {
+          "card": true,
+          "cash": false
+          },
+          "rating": 2.5,
+          "votes": 850,
+          "reviews": 72545,
+          "src": "https://th.bing.com/th/id/OIP.BDJ3Q_v8KOtOiK4RXyXengHaE8?pid=ImgDet&rs=1"
+          },
+          {
+          "name": "Food @ Finger",
+          "id": 10,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 700,
+          "minOrder": 100,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": false,
+          "cash": true
+          },
+          "rating": 4.5,
+          "votes": 65450,
+          "reviews": 86445,
+          "src": "https://dq5r178u4t83b.cloudfront.net/wp-content/uploads/sites/15/2019/10/07135449/sofitel-dubai-palm_HONG-LOONG-585x390.jpg"
+          },
+          {
+          "name": "Kobe Sizzlers",
+          "id": 11,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 1200,
+          "minOrder": 500,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": false
+          },
+          "rating": 4.7,
+          "votes": 70650,
+          "reviews": 42445,
+          "src": "https://im1.dineout.co.in/images/uploads/restaurant/sharpen/7/e/e/p7712-15100391445a015e681faa4.jpg?tr=tr:n-xlarge"
+          },
+          {
+          "name": "Parambriym",
+          "id": 12,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 800,
+          "minOrder": 200,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 2.7,
+          "votes": 650,
+          "reviews": 3645,
+          "src": "https://www.gannett-cdn.com/presto/2018/08/30/PKNS/ef37b7dc-aee5-4f6d-b771-4520efcf41ac-Sahara_09.jpg?width=540&height=&fit=bounds&auto=webp"
+          },
+          {
+          "name": "Wok Monk",
+          "id": 13,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 3000,
+          "minOrder": 2000,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": false
+          },
+          "rating": 1.5,
+          "votes": 450,
+          "reviews": 200,
+          "src": "https://b.zmtcdn.com/data/reviews_photos/280/ea04387ceb1c81d114f1e901bd45d280_1527338372.jpg"
+          },
+          {
+          "name": "High on Grills",
+          "id": 14,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 2000,
+          "minOrder": 500,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": false
+          },
+          "rating": 3.5,
+          "votes": 90650,
+          "reviews": 112445,
+          "src": "https://placepull.com/wp-content/uploads/2020/01/restaurant-busy-885-600x345.jpg"
+          },
+          {
+          "name": "Frozen Bottle",
+          "id": 15,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 350,
+          "minOrder": 100,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": false,
+          "cash": true
+          },
+          "rating": 5,
+          "votes": 30650,
+          "reviews": 12445,
+          "src":"https://im1.dineout.co.in/images/uploads/restaurant/sharpen/3/o/c/p33649-14988065655955f9255c4e8.jpg?tr=tr:n-xlarge"
+          },
+          {
+          "name": "Kebabery",
+          "id": 16,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 600,
+          "minOrder": 100,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 2.8,
+          "votes": 650,
+          "reviews": 835,
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSVzavKX6ARKIWmy1HJbsD74yp-TkX3MoZJTrCzCR3JReN8xUg6&usqp=CAU"
+          },
+          {
+          "name": "Loretta's",
+          "id": 17,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 300,
+          "minOrder": 50,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 4.9,
+          "votes": 90650,
+          "reviews": 17445,
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQX8ar-gewzBPeJooH4IlhkeVIMNX8c5lCUEeSxrqDpYsp_3mbR&usqp=CAU"
+          },
+          {
+          "name": "The Baker's Nook",
+          "id": 18,
+          "cuisine": [
+          "Deserts"
+          ],
+          "costForTwo": 50,
+          "minOrder": 50,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 4.2,
+          "votes": 5650,
+          "reviews": 8249,
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-aUVDN6jZNnwpl-TzpCXL0BqHWmd3kaX97-LdFtVbKHlLCFFJ&usqp=CAU"
+          },
+          {
+          "name": "Chidambaram New Moorthy Cafe",
+          "id": 19,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 500,
+          "minOrder": 150,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": true,
+          "cash": true
+          },
+          "rating": 5,
+          "votes": 90650,
+          "reviews": 92445,
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRbOYb5UHDcgZ53JhIOMImo8hqyS3Qs1Rhnc9CP3ndXYNMERxAk&usqp=CAU"
+          },
+          {
+          "name": "Little Hut",
+          "id": 20,
+          "cuisine": [
+          "continental",
+          "Asian",
+          "Pizza",
+          "Deserts"
+          ],
+          "costForTwo": 30,
+          "minOrder": 200,
+          "deliveryTime": 30,
+          "payment_methods": {
+          "card": false,
+          "cash": true
+          },
+          "rating": 1.6,
+          "votes": 650,
+          "reviews": 445,
+          "src": "https://b.zmtcdn.com/data/pictures/9/18669029/299b4a7d3aec912534398222f8a4fbe2.jpg"
+          }
+          
+  ],
+  "todos": 
+  [
     {
+      "userId": 1,
       "id": 1,
-      "title": "Hello World",
-      "body": "Quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+      "title": "delectus aut autem",
+      "completed": false
     },
     {
+      "userId": 1,
       "id": 2,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
+      "title": "quis ut nam facilis et officia qui",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "fugiat veniam minus",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "et porro tempora",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "qui ullam ratione quibusdam voluptatem quia omnis",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "illo expedita consequatur quia in",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "quo adipisci enim quam ut ab",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "molestiae perspiciatis ipsa",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "illo est ratione doloremque quia maiores aut",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 11,
+      "title": "vero rerum temporibus dolor",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 12,
+      "title": "ipsa repellendus fugit nisi",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 13,
+      "title": "et doloremque nulla",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 14,
+      "title": "repellendus sunt dolores architecto voluptatum",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 15,
+      "title": "ab voluptatum amet voluptas",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 16,
+      "title": "accusamus eos facilis sint et aut voluptatem",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 17,
+      "title": "quo laboriosam deleniti aut qui",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 18,
+      "title": "dolorum est consequatur ea mollitia in culpa",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "id": 19,
+      "title": "molestiae ipsa aut voluptatibus pariatur dolor nihil",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "id": 20,
+      "title": "ullam nobis libero sapiente ad optio sint",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 21,
+      "title": "suscipit repellat esse quibusdam voluptatem incidunt",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 22,
+      "title": "distinctio vitae autem nihil ut molestias quo",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 23,
+      "title": "et itaque necessitatibus maxime molestiae qui quas velit",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 24,
+      "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 25,
+      "title": "voluptas quo tenetur perspiciatis explicabo natus",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 26,
+      "title": "aliquam aut quasi",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 27,
+      "title": "veritatis pariatur delectus",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 28,
+      "title": "nesciunt totam sit blanditiis sit",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 29,
+      "title": "laborum aut in quam",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 30,
+      "title": "nemo perspiciatis repellat ut dolor libero commodi blanditiis omnis",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 31,
+      "title": "repudiandae totam in est sint facere fuga",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 32,
+      "title": "earum doloribus ea doloremque quis",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 33,
+      "title": "sint sit aut vero",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 34,
+      "title": "porro aut necessitatibus eaque distinctio",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 35,
+      "title": "repellendus veritatis molestias dicta incidunt",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 36,
+      "title": "excepturi deleniti adipisci voluptatem et neque optio illum ad",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "id": 37,
+      "title": "sunt cum tempora",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 38,
+      "title": "totam quia non",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 39,
+      "title": "doloremque quibusdam asperiores libero corrupti illum qui omnis",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "id": 40,
+      "title": "totam atque quo nesciunt",
+      "completed": true
+    },
+    {
+      "userId": 3,
+      "id": 41,
+      "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 42,
+      "title": "rerum perferendis error quia ut eveniet",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 43,
+      "title": "tempore ut sint quis recusandae",
+      "completed": true
+    },
+    {
+      "userId": 3,
+      "id": 44,
+      "title": "cum debitis quis accusamus doloremque ipsa natus sapiente omnis",
+      "completed": true
+    },
+    {
+      "userId": 3,
+      "id": 45,
+      "title": "velit soluta adipisci molestias reiciendis harum",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 46,
+      "title": "vel voluptatem repellat nihil placeat corporis",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 47,
+      "title": "nam qui rerum fugiat accusamus",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 48,
+      "title": "sit reprehenderit omnis quia",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 49,
+      "title": "ut necessitatibus aut maiores debitis officia blanditiis velit et",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 50,
+      "title": "cupiditate necessitatibus ullam aut quis dolor voluptate",
+      "completed": true
+    }
+  ],
+
+  "products":
+  [
+        {
+            "name" : "SmartPhone",
+            "price": 30,
+            "avatar" : "https://th.bing.com/th/id/OIP.Dd1EEw5OpqUCHMrVm-BNIgHaFQ?pid=ImgDet&rs=1",
+            "id" : 0
+        },
+        {
+            "name" : "Watch",
+            "price" : 20,
+            "id" : 1,
+            "avatar" : "https://th.bing.com/th/id/OIP.B5CBpkVsAk6Zdo5g-RaApgHaJ4?pid=ImgDet&rs=1"
+        },
+        {
+            "name" : "Shirt",
+            "price" : 50,
+            "avatar" : "https://th.bing.com/th/id/OIP.NAJFaE_5HYgguYR9Q2-udwHaJQ?pid=ImgDet&rs=1",
+            "id" : 2
+        },
+        {
+            "name" : "Pants",
+            "price" : 100,
+            "avatar" : "https://th.bing.com/th/id/OIP.CJ8_x0HFdwfsxDCglGE9EgHaJ4?pid=ImgDet&rs=1",
+            "id" : 3
+        },
+        
+        {
+          "name" : "Books",
+          "price": 20,
+          "avatar" : "https://th.bing.com/th/id/OIP.B0cq57LAKp1k_a0xSz1glAHaEo?pid=ImgDet&rs=1",
+          "id" : 4
+      },
+      {
+          "name" : "Laptops",
+          "price" : 38000,
+          "id" : 5,
+          "avatar" : "https://th.bing.com/th/id/R.85af94176376a0c8270c0d517221ffb8?rik=NK6IRbvYz3UeCg&riu=http%3a%2f%2fvaluenomad.com%2fwp-content%2fuploads%2f2016%2f01%2fskylake_laptop_uk.jpg&ehk=Ab%2bhGqwX5TUWmOUbFp1vtlbBO%2f%2fe5M4lsXIl%2bkJnRcY%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+          "name" : "Smart Watche",
+          "price" : 200,
+          "avatar" : "https://th.bing.com/th/id/OIP.V8feRPwXqu_84byGd_MepgHaHa?pid=ImgDet&rs=1",
+          "id" : 6
+      },
+      {
+          "name" : "Keyboard",
+          "price" : 500,
+          "avatar" : "https://th.bing.com/th/id/OIP.027_rdTrOpJddeQy2KbOXQHaHa?pid=ImgDet&rs=1",
+          "id" : 7
+      },
+      
+      {
+        "name" : "T_shirts",
+        "price": 300,
+        "avatar" : "https://zealevince.com/wp-content/uploads/2019/09/Zeal-Evince-Graphic-T-Shirt-Yellow.jpg",
+        "id" : 8
+    },
+    {
+        "name" : "Shoes",
+        "price" : 2000,
+        "id" : 9,
+        "avatar" : "https://th.bing.com/th/id/OIP.gLEBZPQ-tyUCimBIrBsYbgHaHa?pid=ImgDet&rs=1"
+    },
+    {
+        "name" : "Furnitures",
+        "price" : 4000,
+        "avatar" : "https://th.bing.com/th/id/OIP.lhjYp1BT6oZt4QUEccdP1gHaGL?pid=ImgDet&rs=1",
+        "id" : 10
+    },
+    {
+        "name" : "Beds",
+        "price" : 6000,
+        "avatar" : "https://th.bing.com/th/id/OIP.N4zDFO6UqokFTgwpLBBTxQHaHU?pid=ImgDet&rs=1",
+        "id" : 11
     }
   ]
 }
