@@ -1693,7 +1693,17 @@
     
   
 }
+  ],
+  "recipes":[
+    {
+      "id":1,
+      "image_url":"",
+      "recipe_name":"",
+      "ingredients":"",
+      "cousine_type":""
+    }
   ]
+
 
   
 }
