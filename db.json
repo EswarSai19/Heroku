@@ -1697,10 +1697,31 @@
   "recipes":[
     {
       "id":1,
-      "image_url":"",
-      "recipe_name":"",
-      "ingredients":"",
-      "cousine_type":""
+      "image_url":"https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+      "recipe_name":"Chicken Handi",
+      "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
+      "dish_type":"indian"
+    },
+    {
+      "id":2,
+      "image_url":"https://www.themealdb.com/images/media/meals/1529446352.jpg",
+      "recipe_name":"Chicken Congee",
+      "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
+      "dish_type":"Chinese"
+    },
+    {
+      "id":3,
+      "image_url":"https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+      "recipe_name":"Chicken Karaage",
+      "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
+      "dish_type":"Japanese"
+    },
+    {
+      "id":4,
+      "image_url":"https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+      "recipe_name":"Chicken Marengo",
+      "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
+      "dish_type":"French"
     }
   ]
 
