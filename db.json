@@ -777,8 +777,7 @@
     }
     }
   ],
-"jewelery":
-[
+  "jewelery": [
     {
     "id": 5,
     "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
@@ -828,7 +827,7 @@
     }
     }
   ],
-"electronics":[
+  "electronics":[
     {
     "id": 9,
     "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
@@ -902,8 +901,7 @@
     }
     }
   ],
-  "womens" : 
-  [
+  "womens" :  [
       {
       "id": 15,
       "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
@@ -977,7 +975,6 @@
       }
       }
     ],
-
   "employeData" : 
   [
     {
