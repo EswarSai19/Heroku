@@ -1892,7 +1892,15 @@
       "recipe_name":"Chicken Marengo",
       "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
       "dish_type":"French"
+    },
+    {
+      "id":5,
+      "image_url":"https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+      "recipe_name":"Chicken Birango",
+      "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
+      "dish_type":"American"
     }
+    
   ]
 
 
