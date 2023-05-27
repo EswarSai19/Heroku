@@ -1740,11 +1740,27 @@
       "dish_type": "Japanese"
     },
     {
+<<<<<<< HEAD
       "id": 4,
       "image_url": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
       "recipe_name": "Chicken Marengo",
       "ingredients": "Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
       "dish_type": "French"
+=======
+      "id":4,
+      "image_url":"https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+      "recipe_name":"Chicken Marengo",
+      "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
+      "dish_type":"French"
+    },
+    {
+      "id":5,
+      "image_url":"https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+      "recipe_name":"Chicken Birango",
+      "ingredients":"Chicken, Onion, Tomatoes, Garlic, Ginger paste,Vegetable oil,Cumin seeds,Coriander seeds,Turmeric powder...etc",
+      "dish_type":"American"
+>>>>>>> 51ddef0309c088453dfbc54ad62d6bac11b2db51
     }
+    
   ]
 }
