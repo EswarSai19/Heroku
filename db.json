@@ -1085,28 +1085,48 @@
 
   "users": [
     {
-      "id": 1,
-      "username": "Eswar",
-      "email": "eswarsai219@gmail.com",
-      "password": "password"
+      "userId": "User7",
+      "firstName": "Eswar",
+      "lastName": "Sai",
+      "email": "eswar@intellectdivi.com",
+      "phone": "918074212400",
+      "isActiveBookInLibrar": true,
+      "isDormantUser": false,
+      "isFirstLogin": true,
+      "lastLoginDateTime": "2024-03-02 12:23:00"
     },
     {
-      "id": 2,
-      "username": "Krishna",
-      "email": "krishna@gmail.com",
-      "password": "krishna"
+      "userId": "User10",
+      "firstName": "Eswar",
+      "lastName": "Sai",
+      "email": "eswar@intellectdivi.com",
+      "phone": "918074212400",
+      "isActiveBookInLibrar": true,
+      "isDormantUser": false,
+      "isFirstLogin": true,
+      "lastLoginDateTime": "2024-03-02 12:23:00"
     },
     {
-      "id": 3,
-      "username": "sai",
-      "email": "sai@gmail.com",
-      "password": "sai"
+      "userId": "User9",
+      "firstName": "Eswar",
+      "lastName": "Sai",
+      "email": "eswar@intellectdivi.com",
+      "phone": "918074212400",
+      "isActiveBookInLibrar": true,
+      "isDormantUser": false,
+      "isFirstLogin": true,
+      "lastLoginDateTime": "2024-04-02 12:23:00"
     },
     {
-      "id": 4,
-      "username": "krishna",
-      "email": "krishna@gmail.com",
-      "password": "krishnasai"
+      "userId": "User8",
+      "firstName": "Eswar",
+      "lastName": "Sai",
+      "email": "eswar@intellectdivi.com",
+      "phone": "918074212400",
+      "isActiveBookInLibrar": true,
+      "isDormantUser": false,
+      "isFirstLogin": true,
+      "lastLoginDateTime": "2024-04-02 12:23:00"
     }
   ],
 
