@@ -1103,6 +1103,26 @@
     {
       "userId": "User05",
       "isDormantUser": true
+    },
+    {
+      "userId": "User06",
+      "isDormantUser": true
+    },
+    {
+      "userId": "User07",
+      "isDormantUser": true
+    },
+    {
+      "userId": "User08",
+      "isDormantUser": true
+    },
+    {
+      "userId": "User09",
+      "isDormantUser": true
+    },
+    {
+      "userId": "User10",
+      "isDormantUser": true
     }
   ],
 
