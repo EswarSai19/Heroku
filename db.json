@@ -1085,48 +1085,24 @@
 
   "users": [
     {
-      "userId": "User7",
-      "firstName": "Eswar",
-      "lastName": "Sai",
-      "email": "eswar@intellectdivi.com",
-      "phone": "918074212400",
-      "isActiveBookInLibrar": true,
-      "isDormantUser": false,
-      "isFirstLogin": true,
-      "lastLoginDateTime": "2024-03-02 12:23:00"
+      "userId": "User01",
+      "isDormantUser": true
     },
     {
-      "userId": "User10",
-      "firstName": "Eswar",
-      "lastName": "Sai",
-      "email": "eswar@intellectdivi.com",
-      "phone": "918074212400",
-      "isActiveBookInLibrar": true,
-      "isDormantUser": false,
-      "isFirstLogin": true,
-      "lastLoginDateTime": "2024-03-02 12:23:00"
+      "userId": "User02",
+      "isDormantUser": true
     },
     {
-      "userId": "User9",
-      "firstName": "Eswar",
-      "lastName": "Sai",
-      "email": "eswar@intellectdivi.com",
-      "phone": "918074212400",
-      "isActiveBookInLibrar": true,
-      "isDormantUser": false,
-      "isFirstLogin": true,
-      "lastLoginDateTime": "2024-04-02 12:23:00"
+      "userId": "User03",
+      "isDormantUser": true
     },
     {
-      "userId": "User8",
-      "firstName": "Eswar",
-      "lastName": "Sai",
-      "email": "eswar@intellectdivi.com",
-      "phone": "918074212400",
-      "isActiveBookInLibrar": true,
-      "isDormantUser": false,
-      "isFirstLogin": true,
-      "lastLoginDateTime": "2024-04-02 12:23:00"
+      "userId": "User04",
+      "isDormantUser": true
+    },
+    {
+      "userId": "User05",
+      "isDormantUser": true
     }
   ],
 
